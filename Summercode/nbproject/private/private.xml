@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/com/summercooding/bank/utils/connection.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ingrid/Documents/NetBeansProjects/Summercode/src/com/summercooding/bank/ui/JFrameSaveUtilisateur.java</file>
+            <file>file:/C:/Users/ingrid/Documents/NetBeansProjects/Summercode/src/com/summercooding/bank/controlleur/Controlleur.java</file>
+            <file>file:/C:/Users/ingrid/Documents/NetBeansProjects/Summercode/src/com/summercooding/bank/ui/JFrameSave2.java</file>
+            <file>file:/C:/Users/ingrid/Documents/NetBeansProjects/Summercode/src/com/summercooding/bank/gestionnaires/GestionnaireAdmin.java</file>
+            <file>file:/C:/Users/ingrid/Documents/NetBeansProjects/Summercode/src/com/summercooding/bank/ui/JFrameLogin.java</file>
+            <file>file:/C:/Users/ingrid/Documents/NetBeansProjects/Summercode/src/com/summercooding/bank/ui/JFrameSaveAdmin.java</file>
+            <file>file:/C:/Users/ingrid/Documents/NetBeansProjects/Summercode/src/com/summercooding/bank/ui/JFrameSaveCompte.java</file>
+            <file>file:/C:/Users/ingrid/Documents/NetBeansProjects/Summercode/src/com/summercooding/bank/gestionnaires/GestionnaireUtilisateur.java</file>
+            <file>file:/C:/Users/ingrid/Documents/NetBeansProjects/Summercode/src/com/summercooding/bank/gestionnaires/GestionnaireCompte.java</file>
+            <file>file:/C:/Users/ingrid/Documents/NetBeansProjects/Summercode/src/com/summercooding/bank/entities/Compte.java</file>
+        </group>
+    </open-files>
+</project-private>
