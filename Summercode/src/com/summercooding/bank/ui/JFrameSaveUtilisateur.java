@@ -81,7 +81,7 @@ public class JFrameSaveUtilisateur extends javax.swing.JFrame {
         ButtonOK = new javax.swing.JButton();
         ButtonCANCEL = new javax.swing.JButton();
 
-        setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
 
         jLabel4.setText("Password");
 

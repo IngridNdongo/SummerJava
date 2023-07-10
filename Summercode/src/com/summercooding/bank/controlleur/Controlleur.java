@@ -7,6 +7,7 @@ package com.summercooding.bank.controlleur;
 
 import com.summercooding.bank.entities.Admin;
 import com.summercooding.bank.entities.Compte;
+import com.summercooding.bank.entities.Utilisateur;
 import com.summercooding.bank.gestionnaires.GestionnaireAdmin;
 import com.summercooding.bank.gestionnaires.GestionnaireCompte;
 import com.summercooding.bank.gestionnaires.GestionnaireUtilisateur;
@@ -56,4 +57,9 @@ public class Controlleur {
      }
      
 
+     public Utilisateur routeVersLoginUtilisateur(String login , String password) throws SQLException{
+             return gestionnaireUtilisateur.login(login, password );
+     }
+   
 }
+     

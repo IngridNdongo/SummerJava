@@ -55,6 +55,10 @@ public class JFrameSaveCompte extends javax.swing.JFrame {
 
         jLabel3.setText("IdAdmin");
 
+        ComboBoxIduser.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20" }));
+
+        ComboBoxIdadmin.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20" }));
+
         ButtonOK.setText("OK");
         ButtonOK.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -139,7 +143,9 @@ public class JFrameSaveCompte extends javax.swing.JFrame {
          } catch (SQLException ex) {
              Logger.getLogger(JFrameSaveCompte.class.getName()).log(Level.SEVERE, null, ex);
               JOptionPane.showMessageDialog(null, "Veuillez reessayer plus tard ");
+              
          }
+         
          
           
             

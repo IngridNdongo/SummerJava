@@ -17,8 +17,10 @@ import java.time.LocalDate;
 public class GestionnaireUtilisateur {
     
     private Utilisateur utilisateur = new Utilisateur ();
+    public Utilisateur login (String login , String password) throws SQLException{
+            return utilisateur.getByLoginAndPassword(login ,password);
     
-
+    }
     
     public void saveUtilisateur(String login, String password, String nom, String prenom, LocalDate datenaiss, String genre, int idadmin)throws SQLException{
             utilisateur.save(login , password , nom , prenom , datenaiss , genre , idadmin);
